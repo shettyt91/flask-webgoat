@@ -2,7 +2,7 @@
 # They are provided by a third-party and are governed by
 # separate terms of service, privacy policy, and support
 # documentation.
-# Frogbot Scan Pull Request does the following:
+# Frogbot Scan Pull Request does the following :
 # Automatically scans new pull requests for security vulnerabilities.
 # Uses JFrog Xray to scan the project.
 # Read more about Frogbot here - https://docs.jfrog-applications.jfrog.io/jfrog-applications/frogbot
