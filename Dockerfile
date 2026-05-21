@@ -1,6 +1,6 @@
 FROM python:3.8.5-buster
 
-# docker build --build-arg SHIFTLEFT_ACCESS_TOKEN=$SHIFTLEFT_ACCESS_TOKEN
+# docker build --build-arg SHIFTLEFT_ACCESS_TOKEN=$SHIFTLEFT_ACCESS_TOKEN. new
 ARG SHIFTLEFT_ACCESS_TOKEN
 ARG BRANCH=master
 
